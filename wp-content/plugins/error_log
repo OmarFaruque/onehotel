@@ -1,0 +1,1 @@
+[27-Feb-2017 13:33:28 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/aboutdha/public_html/one/wp-content/plugins/hello.php on line 60

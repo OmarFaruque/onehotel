@@ -1,0 +1,1 @@
+[04-Mar-2017 14:17:12 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/aboutdha/public_html/one/wp-content/themes/twentyfourteen/404.php on line 10

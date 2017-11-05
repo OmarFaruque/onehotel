@@ -1,0 +1,78 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Olives &#187; Olives Features</title>
+	<atom:link href="http://theolivesbd.com/category/olives-features/feed" rel="self" type="application/rss+xml" />
+	<link>http://theolivesbd.com</link>
+	<description>olives</description>
+	<lastBuildDate>Sat, 31 Oct 2015 08:21:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1.8</generator>
+	<item>
+		<title>Use of Health Club!</title>
+		<link>http://theolivesbd.com/olives-features/use-of-health-club</link>
+		<comments>http://theolivesbd.com/olives-features/use-of-health-club#comments</comments>
+		<pubDate>Wed, 08 Apr 2015 10:32:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Olives Features]]></category>
+
+		<guid isPermaLink="false">http://test1.paronsoft.net/?p=227</guid>
+		<description><![CDATA[Our modern Health Club features up-to-date fitness equipment. Instructors are always ready to hear from you and resolve your problem as well. We are open 07:00 to 22:00, 7 days a week.]]></description>
+				<content:encoded><![CDATA[Our modern Health Club features up-to-date fitness equipment. Instructors are always ready to hear from you and resolve your problem as well. We are open 07:00 to 22:00, 7 days a week.]]></content:encoded>
+			<wfw:commentRss>http://theolivesbd.com/olives-features/use-of-health-club/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>24 Hour Restaurant</title>
+		<link>http://theolivesbd.com/olives-features/24-hour-restaurant</link>
+		<comments>http://theolivesbd.com/olives-features/24-hour-restaurant#comments</comments>
+		<pubDate>Wed, 08 Apr 2015 10:31:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Olives Features]]></category>
+
+		<guid isPermaLink="false">http://test1.paronsoft.net/?p=225</guid>
+		<description><![CDATA[THE OLIVES RESTAURANT Taste of continental cuisine. We are proud to generate such as test &#038; true hospitality with the atmosphere to enjoy delicious food at THE OLIVES Restaurant.]]></description>
+				<content:encoded><![CDATA[THE OLIVES RESTAURANT Taste of continental cuisine. We are proud to generate such as test &#038; true hospitality with the atmosphere to enjoy delicious food at THE OLIVES Restaurant.]]></content:encoded>
+			<wfw:commentRss>http://theolivesbd.com/olives-features/24-hour-restaurant/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>High Speed Internet</title>
+		<link>http://theolivesbd.com/olives-features/high-speed-internet</link>
+		<comments>http://theolivesbd.com/olives-features/high-speed-internet#comments</comments>
+		<pubDate>Tue, 07 Apr 2015 22:32:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Olives Features]]></category>
+
+		<guid isPermaLink="false">http://test1.paronsoft.net/?p=219</guid>
+		<description><![CDATA[We provide our guests with the best technology have to offer, High-speed Wi-Fi Internet, webcams and sophisticated audiovisual equipment. An attendance will always to assist you and your business.]]></description>
+				<content:encoded><![CDATA[We provide our guests with the best technology have to offer, High-speed Wi-Fi Internet, webcams and sophisticated audiovisual equipment. An attendance will always to assist you and your business.]]></content:encoded>
+			<wfw:commentRss>http://theolivesbd.com/olives-features/high-speed-internet/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Stay First, Pay After!</title>
+		<link>http://theolivesbd.com/olives-features/stay-first-pay-after</link>
+		<comments>http://theolivesbd.com/olives-features/stay-first-pay-after#comments</comments>
+		<pubDate>Wed, 08 Apr 2015 10:23:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Olives Features]]></category>
+
+		<guid isPermaLink="false">http://test1.paronsoft.net/?p=223</guid>
+		<description><![CDATA[We believe our guest will feel like home. Our guest can enjoy panoramic views of Gulshan Lake. Our hotel offers everything a business traveler demands and everything a vacation visitor desires. ]]></description>
+				<content:encoded><![CDATA[We believe our guest will feel like home. Our guest can enjoy panoramic views of Gulshan Lake. Our hotel offers everything a business traveler demands and everything a vacation visitor desires. ]]></content:encoded>
+			<wfw:commentRss>http://theolivesbd.com/olives-features/stay-first-pay-after/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

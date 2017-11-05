@@ -1,0 +1,24 @@
+[30-Sep-2017 12:07:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/aboutdha/public_html/one/wp-content/themes/one_hotel/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aboutdha/public_html/one/wp-content/themes/one_hotel/header.php on line 17
+[30-Sep-2017 12:07:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/aboutdha/public_html/one/wp-content/themes/one_hotel/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aboutdha/public_html/one/wp-content/themes/one_hotel/header.php on line 17
+[17-Oct-2017 05:55:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/aboutdha/public_html/one/wp-content/themes/one_hotel/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aboutdha/public_html/one/wp-content/themes/one_hotel/header.php on line 17
+[17-Oct-2017 05:55:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/aboutdha/public_html/one/wp-content/themes/one_hotel/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aboutdha/public_html/one/wp-content/themes/one_hotel/header.php on line 17
+[19-Oct-2017 02:27:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/aboutdha/public_html/one/wp-content/themes/one_hotel/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aboutdha/public_html/one/wp-content/themes/one_hotel/index.php on line 18
+[19-Oct-2017 02:27:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/aboutdha/public_html/one/wp-content/themes/one_hotel/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aboutdha/public_html/one/wp-content/themes/one_hotel/index.php on line 18
